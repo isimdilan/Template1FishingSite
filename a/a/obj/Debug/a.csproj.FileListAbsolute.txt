@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\a\a\bin\a.dll
+C:\Users\lenovo\Desktop\a\a\bin\a.pdb
+C:\Users\lenovo\Desktop\a\a\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\a\a\obj\Debug\a.dll
+C:\Users\lenovo\Desktop\a\a\obj\Debug\a.pdb
+C:\Users\lenovo\siteler\fishing\a\a\bin\a.dll
+C:\Users\lenovo\siteler\fishing\a\a\bin\a.pdb
+C:\Users\lenovo\siteler\fishing\a\a\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\siteler\fishing\a\a\obj\Debug\a.dll
+C:\Users\lenovo\siteler\fishing\a\a\obj\Debug\a.pdb
+C:\Users\lenovo\Desktop\siteler\fishing\a\a\bin\a.dll
+C:\Users\lenovo\Desktop\siteler\fishing\a\a\bin\a.pdb
+C:\Users\lenovo\Desktop\siteler\fishing\a\a\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\siteler\fishing\a\a\obj\Debug\a.dll
+C:\Users\lenovo\Desktop\siteler\fishing\a\a\obj\Debug\a.pdb
